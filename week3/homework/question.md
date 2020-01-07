@@ -6,12 +6,11 @@ Q1. Given a set of unique integers, return all possible subsets.
 # Output: [ [3], [1], [2], [1,2,3], [1,3], [2,3], [1,2], [] ]
 # Use this format for coding.
 
-class Solution(object):
-    def subsets(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+def subsets(nums):
+    """
+    :type nums: List[int]
+    :rtype: List[List[int]]
+    """
 ```        
 
 

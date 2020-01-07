@@ -8,6 +8,3 @@ https://github.com/stargrep/summer-bootcamp/blob/master/week2-python/class-note.
 
 ### 资源
 https://github.com/stargrep/summer-bootcamp/blob/master/week3-data-modeling/class-note.md
-
-### 作业
-numpy pandas, 待添加

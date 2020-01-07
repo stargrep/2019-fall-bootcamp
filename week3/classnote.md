@@ -12,4 +12,7 @@ https://github.com/stargrep/summer-bootcamp/blob/master/week2-python/class-note.
 https://github.com/stargrep/summer-bootcamp/tree/master/week3-data-modeling/class-note.md
 
 ### 作业
-homework/question.md
+* homework/question.md
+* homework/answer.md
+* [week3 讲解](https://www.jianguoyun.com/p/DWpaM8cQhZriBxjDysQC)
+

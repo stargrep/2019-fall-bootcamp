@@ -50,3 +50,6 @@ local.properties
 ### Queue files
 *.cq4t
 *.cq4
+
+.DS_Store
+/*/.DS_Store
